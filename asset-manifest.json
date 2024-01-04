@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/progressiveWebApp/static/css/main.b03891ad.css",
+    "main.js": "/progressiveWebApp/static/js/main.3ccc6ba2.js",
+    "static/js/787.6520ff22.chunk.js": "/progressiveWebApp/static/js/787.6520ff22.chunk.js",
+    "static/media/logo.svg": "/progressiveWebApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/progressiveWebApp/index.html",
+    "main.b03891ad.css.map": "/progressiveWebApp/static/css/main.b03891ad.css.map",
+    "main.3ccc6ba2.js.map": "/progressiveWebApp/static/js/main.3ccc6ba2.js.map",
+    "787.6520ff22.chunk.js.map": "/progressiveWebApp/static/js/787.6520ff22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b03891ad.css",
+    "static/js/main.3ccc6ba2.js"
+  ]
+}
